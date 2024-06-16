@@ -1,0 +1,21 @@
+﻿  main.cpp
+C:\Users\timot\OneDrive\Desktop\CHEAT\ImGui Multi Loader\ImGui Multi Loader\imguipp_v2.h(94,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\timot\OneDrive\Desktop\CHEAT\ImGui Multi Loader\ImGui Multi Loader\imguipp_v2.h(94,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\timot\OneDrive\Desktop\CHEAT\ImGui Multi Loader\ImGui Multi Loader\imguipp_v2.h(94,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\timot\OneDrive\Desktop\CHEAT\ImGui Multi Loader\ImGui Multi Loader\imguipp_v2.h(94,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\timot\OneDrive\Desktop\CHEAT\ImGui Multi Loader\ImGui Multi Loader\main.cpp(270,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\timot\OneDrive\Desktop\CHEAT\ImGui Multi Loader\ImGui Multi Loader\main.cpp(515,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  0 of 1621 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  example.vcxproj -> C:\Users\timot\OneDrive\Desktop\CHEAT\ImGui Multi Loader\ImGui Multi Loader\x64\Release\Simple Multi Loader.exe
